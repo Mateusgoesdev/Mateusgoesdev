@@ -8,6 +8,7 @@ Sou um prgramador Full Stack em desenvolvimento!
 <br>
 Languages and Tools:
 <br>
+<br>
 <ul>
 <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo" width="60px" /></li>
 <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" width="50x" /></li>
